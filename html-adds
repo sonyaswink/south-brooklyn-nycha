@@ -1,0 +1,96 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>title</title>
+    <meta name="author" content="name">
+    <meta name="description" content="description here">
+    <meta name="keywords" content="keywords,here">
+    <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="mystyle.css" type="text/css">
+    <script charset="utf-8" src="https://platform.twitter.com/js/button.550007e6cc79c00bac51111d8131d860.js"></script>
+    <script charset="utf-8" src="https://platform.twitter.com/js/moment~timeline~tweet.a1aa0f6410f7eaada23e6b16a38824b8.js"></script>
+    <script charset="utf-8" src="https://platform.twitter.com/js/tweet.2d3dab8467c8e4cdce5682bb8dbbe4cd.js"></script>
+</head>
+
+<body class="body">
+    <main>
+        <article>
+            <div class="article-hed">
+                <!-- add your headline here inside an h1 tag with a class -->
+                <h1 class="hed">SOUTHERN BROOKLYN NYCHA HOUSING</h1>
+                <!-- add your dek here inside an h4 tag with a class -->
+                <h4 class="NYHCA Projects"></h4>
+                <!--add your byline here inside an h6 tag with a class and link to your twitter or website -->
+                <h6>by Sonya Swink <iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="twitter-follow-button twitter-follow-button-rendered" style="position: static; visibility: visible; width: 142px; height: 20px;" title="Twitter Follow Button" src="https://platform.twitter.com/widgets/follow_button.69e02060c7c44baddf1b5629549acc0c.en.html#dnt=false&amp;id=twitter-widget-0&amp;lang=en&amp;screen_name=sonya_swink&amp;show_count=false&amp;show_screen_name=true&amp;size=m&amp;time=1576276839534" data-screen-name="sonya_swink"></iframe>
+                    <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                </h6>
+                <time>Dated from 2019</time><!-- add a publish date here inside a time tag -->
+            </div>
+            <div class="article-photo">
+                <img class="photo" src="IMG_2374 (2).jpg">
+                <!-- add a caption and credit to your photo in -->
+            </div>
+            <div class="article-copy">
+                <h4 class="subhed">NYCHA HOUSING IN S. BROOKLYN IS NEGLECTED</h4>
+                <p class="copy">
+                    The Marlboro Houses at 2740 86th Street ranks as the <strong>41st most neglected development</strong> under the New York City Housing Authorities’ management, with some residents waiting years for repairs on leaking pipes, crumbling walls and peeling paint, according to a 2013 “Hall of Shame” list produced by the public advocate at that time, Bill de Blasio.</p>
+                <iframe title="Marlboro Houses Location" aria-label="Locator maps" id="datawrapper-chart-QU6MF" src="//datawrapper.dwcdn.net/QU6MF/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="508"></iframe>
+                <script type="text/javascript">
+                ! function() {
+                    "use strict";
+                    window.addEventListener("message", function(a) {
+                        if (void 0 !== a.data["datawrapper-height"])
+                            for (var e in a.data["datawrapper-height"]) {
+                                var t = document.getElementById("datawrapper-chart-" + e) || document.querySelector("iframe[src*='" + e + "']");
+                                t && (t.style.height = a.data["datawrapper-height"][e] + "px")
+                            }
+                    })
+                }();
+                </script>
+                <p>
+                    <p class="copy">“Right now we have no gas, and we’re cooking on hot plates,” said Carolyn Spivey, a Marlboro Houses resident. “How much can you cook on a hot plate? Not no turkey for Thanksgiving.”</p>
+                    <twitter-widget class="twitter-tweet twitter-tweet-rendered" id="twitter-widget-1" style="position: static; visibility: visible; display: block; transform: rotate(0deg); max-width: 100%; width: 500px; min-width: 220px; margin-top: 10px; margin-bottom: 10px;" data-tweet-id="1202027771146293248"></twitter-widget>
+                    <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    <p class="copy">
+                        On October 14th, NYCHA shut down the gas in Building 28, due to a gas leak call. After a “freezing weekend,” as one resident described, the building manager turned the heat back on.</p>
+                    <p class="copy">But gas lines to the kitchens have remained shut. And residents have been told by management that it <a href="https://gothamist.com/news/cook-thanksgiving-dinner-hot-plate-welcome-nychas-marlboro-houses">will stay that way until the new year</a>.</p>
+                    <iframe title="Threshold of Poverty per Family Unit Size" aria-label="Split Bars" id="datawrapper-chart-CXmxy" src="//datawrapper.dwcdn.net/CXmxy/1/" scrolling="no" frameborder="0" style="width: 0px; border: none; min-width: 100% !important; height: 365px;" height="326"></iframe>
+                    <script type="text/javascript">
+                    ! function() {
+                        "use strict";
+                        window.addEventListener("message", function(a) {
+                            if (void 0 !== a.data["datawrapper-height"])
+                                for (var e in a.data["datawrapper-height"]) {
+                                    var t = document.getElementById("datawrapper-chart-" + e) || document.querySelector("iframe[src*='" + e + "']");
+                                    t && (t.style.height = a.data["datawrapper-height"][e] + "px")
+                                }
+                        })
+                    }();
+                    </script>
+                    <p>
+                        <p class="copy">“They’re saying that the gas may not be on until the end of January or February,” said Venice Gaddy, another resident. “Who’s to know? They’re not telling us anything.”</p>
+                        <p> Experts say issues won't ever be resolved by NYCHA. The greater southern Brooklyn housing authority community faces issues of being in flood zones in buildings that were largely built in the 1950s.<p>
+                                <div><iframe width="560" height="315" src="https://www.youtube.com/embed/yim7Nw_c7sw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                                    <p>
+                                        <iframe title="S. Brooklyn NYCHA Housing Locations" aria-label="USA new york city community districts Symbol map" id="datawrapper-chart-qYqFH" src="//datawrapper.dwcdn.net/qYqFH/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe>
+                                        <div>
+                                            <script type="text/javascript">
+                                            ! function() {
+                                                "use strict";
+                                                window.addEventListener("message", function(a) {
+                                                    if (void 0 !== a.data["datawrapper-height"])
+                                                        for (var e in a.data["datawrapper-height"]) {
+                                                            var t = document.getElementById("datawrapper-chart-" + e) || document.querySelector("iframe[src*='" + e + "']");
+                                                            t && (t.style.height = a.data["datawrapper-height"][e] + "px")
+                                                        }
+                                                })
+                                            }();
+                                            </script>
+                                        </div>
+                                        <p>Ultimately the impetus is on residents. They must call their local politicians, from the city's own council up to the state level, in order to resolve the issues that plague them constantly. The data shows that the families with the most people also face the most issues, and in NYCHA that multiplies the need for fixes.<p>
+        </article>
+    </main>
+    <iframe scrolling="no" frameborder="0" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.69e02060c7c44baddf1b5629549acc0c.html?origin=https%3A%2F%2Fsonyaswink.github.io" title="Twitter settings iframe" style="display: none;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe>
